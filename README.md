@@ -24,3 +24,4 @@ Here are the key questions we need to answer for our marketing client:
 
 # DATA SOURCE
 The data is sourced from [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
+![dataset](
