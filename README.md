@@ -1,4 +1,6 @@
 # INFLENCER-MARKETING-ANALYSIS
+
+![kaggle_to_powerbi]
 # INTRODUCTION
 
 The objective of this analysis centers on discovering the top-performing UK Youtubers to form marketing collaborations throughout 2024.
