@@ -26,3 +26,12 @@ Here are the key questions we need to answer for our marketing client:
 The data is sourced from [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
 
 # ![dataset](https://github.com/Temperance-Godwin/INFLUENCER-MARKETING-ANALYSIS/blob/main/dataset.png)
+
+# SKILLS DEMONSTRATED
+
+1. SQL Aggregates
+2. DAX functions
+3. Data Visualization
+
+# DATA CLEANING, ANALYSIS AND FINDINGS
+[View my medium article](https://medium.com/@temperancegodwin/influencer-marketing-analysis-an-end-to-end-project-65b664b36c99)
