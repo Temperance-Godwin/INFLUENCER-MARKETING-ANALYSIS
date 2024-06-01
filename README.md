@@ -33,5 +33,8 @@ The data is sourced from [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra0
 2. DAX functions
 3. Data Visualization
 
-# DATA CLEANING, ANALYSIS AND FINDINGS
+# DATA CLEANING, ANALYSIS, FINDINGS AND RECOMMENDATIONS.
 [View my medium article](https://medium.com/@temperancegodwin/influencer-marketing-analysis-an-end-to-end-project-65b664b36c99)
+
+# DATA VISUALIZATION
+![dashboard](
