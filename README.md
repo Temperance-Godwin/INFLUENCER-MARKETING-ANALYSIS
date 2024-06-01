@@ -38,4 +38,4 @@ The data is sourced from [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra0
 
 # DATA VISUALIZATION
 ![Dashboard](https://github.com/Temperance-Godwin/INFLUENCER-MARKETING-ANALYSIS/blob/main/Dashboard.png)
-
+To interact with the dashboard, [click here](https://app.powerbi.com/view?r=eyJrIjoiMGZkOWFjNGQtZGM3Zi00ZjFhLThiM2MtZThhN2Q2OTA0YWQ0IiwidCI6Ijg0ZGZiOGY5LWYzMTItNDk1NC05ZTk5LWYzZjcxMTgzZDZmMSJ9)
