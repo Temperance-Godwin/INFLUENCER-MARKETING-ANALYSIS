@@ -1,6 +1,6 @@
 # INFLENCER-MARKETING-ANALYSIS
 
-![kaggle_to_powerbi]
+![kaggle_to_powerbi](https://github.com/Temperance-Godwin/INFLUENCER-MARKETING-ANALYSIS/blob/main/kaggle_to_powerbi.gif)
 # INTRODUCTION
 
 The objective of this analysis centers on discovering the top-performing UK Youtubers to form marketing collaborations throughout 2024.
