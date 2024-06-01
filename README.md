@@ -37,4 +37,4 @@ The data is sourced from [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra0
 [View my medium article](https://medium.com/@temperancegodwin/influencer-marketing-analysis-an-end-to-end-project-65b664b36c99)
 
 # DATA VISUALIZATION
-![dashboard](
+![Dashboard](https://github.com/Temperance-Godwin/INFLUENCER-MARKETING-ANALYSIS/blob/main/Dashboard.png)
