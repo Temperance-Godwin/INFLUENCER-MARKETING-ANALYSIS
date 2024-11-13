@@ -33,10 +33,53 @@ The data is sourced from [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra0
 2. DAX functions
 3. Data Visualization
 
-# DATA CLEANING, ANALYSIS, FINDINGS AND RECOMMENDATIONS.
-[View my medium article](https://medium.com/@temperancegodwin/influencer-marketing-analysis-an-end-to-end-project-65b664b36c99)
+## DATA CLEANING.
+The data-cleaning process was done in SQL. The dataset was imported from Excel. The criteria or the data-cleaning process involves retaining only the relevant columns, ensuring data types are suitable for each column's contents, and making sure no columns contain null values, ensuring all records are complete.
+
+[View my code](Data_Cleaning.sql)
+
+## DATA QUALITY TEST
+I need high-quality data for this analysis. I rule out missing figures, inaccurate data, and duplicate data.
+Some datasets that need to be conducted include:
+1. Row count check
+2. Column count check
+3. Data type check
+4. Duplicate check
+
+[View my code](Data_Quality.sql)
 
 # DATA VISUALIZATION
 ![Dashboard](https://github.com/Temperance-Godwin/INFLUENCER-MARKETING-ANALYSIS/blob/main/Dashboard.png)
 
 To interact with the dashboard, [click here](https://app.powerbi.com/view?r=eyJrIjoiMGZkOWFjNGQtZGM3Zi00ZjFhLThiM2MtZThhN2Q2OTA0YWQ0IiwidCI6Ijg0ZGZiOGY5LWYzMTItNDk1NC05ZTk5LWYzZjcxMTgzZDZmMSJ9)
+
+## FINDINGS
+
+[View my code](Findings.sql)
+
+## VALIDATION-CALCULATING THE POTENTIAL ROI
+For this analysis, I included the breakdown of the calculation used for my analysis. I am using the Top 3 channel names with the highest subscribers and I will compare my results in Excel and SQL.
+
+This breakdown includes:
+1. Calculating average views per video which is computed using the dashboard
+2. Calculating potential product by multiplying the average views per video by the conversion rate
+3. Calculating product cost by multiplying the potential product by the product cost,
+4. Calculating the net profit by subtracting the campaign cost from Potential revenue per video.
+
+[View my code](Validation.sql)
+
+## INSIGHTS
+
+1. The Top 3 Channels with the most subscribers are NoCopyRightSounds, Dan Rhodes, and DanTSM.These channels have managed to attract large audiences due to their engaging content and consistent uploads. In addition to having a vast subscriber base, these channels are influential within their respective niches, with each channel providing unique content that appeals to their followers. When it comes to the total number of views, DanTDM, Dan Rhodes, and Mister Max lead the way. These channels have amassed substantial view counts, reflecting their wide appeal and the popularity of their videos. Their high viewership is indicative of their ability to create content that resonates with a broad audience, keeping viewers coming back for more.
+2. Entertainment channels, particularly those focused on entertainment and music, are especially valuable for achieving broader reach. Channels that consistently post engaging content tend to generate the most significant engagement and interaction from their audiences. This consistency in posting and the ability to captivate viewers’ interests make entertainment channels highly effective for reaching a wide and diverse audience.
+3. GRM Daily, Man City, and Yogscast stand out as the channels with the most uploaded videos. These channels maintain a prolific output, regularly adding new content to their platforms, which helps them stay relevant and continually engage their audience. The frequency and volume of their uploads contribute to their strong presence on YouTube.
+
+## RECOMMENDATIONS
+
+1. In terms of collaboration, Dan Rhodes is the best YouTube Channel to work with as the channel helps to maximize visibility fully. While GRM Daily, Man City, and Yogscast regularly upload content, their potential return on investment may not justify the collaboration within the current budget limits.
+2. Mister Max is a top choice for maximizing reach, but DanTDM and Dan Rhodes offer better long-term benefits due to their large subscriber bases and high average views.
+3. Overall, NoCopyrightSounds, DanTDM, and Dan Rhodes are the top three channels for collaboration, as they consistently attract the highest engagement.
+
+## POTENTIAL RETURN OF INVESTMENT(ROI)
+1. Partnering with Dan Rhodes would result in a net profit of $1,065,000 per video for the client. An influencer marketing contract with Mister Max could generate a net profit of $1,276,000. A product placement campaign with DanTDM could bring in about $484,000 per video, while an influencer marketing deal would yield a one-time net profit of $404,000. Additionally, collaborating with NoCopyrightSounds could earn the client $642,000 per video, making it a valuable option.
+2. Due to this analysis, partnering with Dan Rhodes will help promote the client’s products. Once a milestone is reached, an advanced partnership with DanTDM, Mister Max, and NoCopyrightsounds will be next.
