@@ -83,3 +83,7 @@ This breakdown includes:
 ## POTENTIAL RETURN OF INVESTMENT(ROI)
 1. Partnering with Dan Rhodes would result in a net profit of $1,065,000 per video for the client. An influencer marketing contract with Mister Max could generate a net profit of $1,276,000. A product placement campaign with DanTDM could bring in about $484,000 per video, while an influencer marketing deal would yield a one-time net profit of $404,000. Additionally, collaborating with NoCopyrightSounds could earn the client $642,000 per video, making it a valuable option.
 2. Due to this analysis, partnering with Dan Rhodes will help promote the client’s products. Once a milestone is reached, an advanced partnership with DanTDM, Mister Max, and NoCopyrightsounds will be next.
+
+![](ThankYou.jpg)
+
+## Thank you for following through.
