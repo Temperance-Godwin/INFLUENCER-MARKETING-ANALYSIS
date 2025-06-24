@@ -1,11 +1,11 @@
-# INFLUENCER-MARKETING-ANALYSIS
+## INFLUENCER-MARKETING-ANALYSIS
 
 ![kaggle_to_powerbi](https://github.com/Temperance-Godwin/INFLUENCER-MARKETING-ANALYSIS/blob/main/kaggle_to_powerbi.gif)
-# INTRODUCTION
+## INTRODUCTION
 
 The objective of this analysis centers on discovering the top-performing UK Youtubers to form marketing collaborations throughout 2024.
 
-# PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
 Sharon, the Head of Marketing, has found it challenging to identify the top YouTube channels in the UK for marketing campaigns. Her online research is hindered by overly complicated and conflicting insights. Calls with third-party providers have also been unhelpful, as they offer expensive options with underwhelming results. Additionally, the BI reporting team lacks the bandwidth to assist her with this task.
 
@@ -22,12 +22,12 @@ Here are the key questions we need to answer for our marketing client:
 5. Which 3 channels have the highest views per subscriber ratio?
 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
-# DATA SOURCE
+## DATA SOURCE
 The data is sourced from [Kaggle](https://www.kaggle.com/datasets/bhavyadhingra00020/top-100-social-media-influencers-2024-countrywise?resource=download)
 
-# ![dataset](https://github.com/Temperance-Godwin/INFLUENCER-MARKETING-ANALYSIS/blob/main/dataset.png)
+![dataset](https://github.com/Temperance-Godwin/INFLUENCER-MARKETING-ANALYSIS/blob/main/dataset.png)
 
-# SKILLS DEMONSTRATED
+## SKILLS DEMONSTRATED
 
 1. SQL Aggregates
 2. DAX functions
@@ -48,7 +48,7 @@ Some datasets that need to be conducted include:
 
 [View my code](Data_Quality.sql)
 
-# DATA VISUALIZATION
+## DATA VISUALIZATION
 ![Dashboard](https://github.com/Temperance-Godwin/INFLUENCER-MARKETING-ANALYSIS/blob/main/Dashboard.png)
 
 To interact with the dashboard, [click here](https://app.powerbi.com/view?r=eyJrIjoiMGZkOWFjNGQtZGM3Zi00ZjFhLThiM2MtZThhN2Q2OTA0YWQ0IiwidCI6Ijg0ZGZiOGY5LWYzMTItNDk1NC05ZTk5LWYzZjcxMTgzZDZmMSJ9)
